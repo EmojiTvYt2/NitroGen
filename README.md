@@ -9,3 +9,6 @@ The name "NitroGen" is made of 2 words - Nitro & Generation - What gives "NitroG
 The name looks like the name of a chemical element 'Nitrogen', thats why the icon of the app is based on it.
 
 The app will be in development until it will be forgotten by the creator, just like the rest of the projects.
+
+# Source
+The app is not open-source, and probably will never be.
