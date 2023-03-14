@@ -1,8 +1,9 @@
-# NitroGen
-Before a small program for making millions upon millions of discord nitro gift links, now a whole console based app for it.
-(Non-Stop in development)
+# Supported OS
+Windows
 
 # About
+Before a small program for making millions upon millions of discord nitro gift links, now a whole console based app for it.
+(Non-Stop in development)
 NitroGen is a free python program (converted to executable) to generate mostly not working discord nitro gift links and psc codes
 
 The name "NitroGen" is made of 2 words - Nitro & Generation - What gives "NitroGen"
