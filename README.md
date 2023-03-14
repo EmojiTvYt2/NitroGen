@@ -1,5 +1,6 @@
 # Supported OS
-Windows
+- Windows
+- MacOS [UNAVAIBLE TIL RELEASE 1.5]
 
 # About
 Before a small program for making millions upon millions of discord nitro gift links, now a whole console based app for it.
